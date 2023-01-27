@@ -1,0 +1,11 @@
+img{border-radius: 100%;
+    width: 200px;
+}
+.centralo{
+    display:flex;
+    justify-content: center;
+}
+.titolo{
+    display:flex;
+    justify-content: center;
+}
